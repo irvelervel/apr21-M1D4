@@ -88,3 +88,21 @@ const barkOrBork = function(dogSize){
 
 console.log(barkOrBork('little'))
 console.log(barkOrBork('big'))
+
+const calculateArea = function(l1, l2){
+    let area = l1 * l2
+    return area
+}
+
+const crazySum = function(n1, n2){
+    // we need to check if they are the same
+    if(){
+        // if they are the same, add them up and return the total * 3
+    } else {
+        // simply return their sum
+    }
+}
+
+const crazyDifference = function(numberToSubtract) {
+
+}

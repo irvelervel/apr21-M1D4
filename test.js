@@ -10,3 +10,5 @@ console.log('another one')
 // git commit
 // 3) WE NEED TO PUSH OUR COMMIT ONLINE
 // git push
+
+let strive = 5
